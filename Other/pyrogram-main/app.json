@@ -1,0 +1,10 @@
+{
+    "name": "Telegram URL Upload Bot",
+    "description": "A Telegram URL Uploader (and youtube-dl) Leecher based on Pyrogram",
+    "keywords": [
+        "telegram"
+    ],
+    "repository": "https://github.com/",
+    "success_url": "https://t.me/NandiyaLive",
+    "website": "https://github.com/"
+}
